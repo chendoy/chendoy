@@ -24,11 +24,11 @@ I’m a Senior Security Researcher at Akamai Technologies.
 
 ---
 
-### 💻 Certifications and Badges
+## 💻 Certifications and Badges
 
 - [BSCP (Burp Suite Certified Practitioner)](https://portswigger.net/web-security/e/c/d8e801847633de54) @PortSwigger
   
-### ✏️ Latest blog posts
+## ✏️ Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Akamai’s Observations of Confluence Zero Day (CVE-2022-26134)](https://www.akamai.com/blog/security-research/atlassian-confluence-vulnerability-observations)
@@ -36,12 +36,78 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802)
 <!-- BLOG-POST-LIST:END -->
 
-### 📜 Papers
+## 📖 BGU Courses
+
+<!--
+
+## [DeepReinforcementLearningCourse](https://github.com/ShaharShc/DeepReinforcementLearningCourse) (2023)
+Ben Gurion University "Deep Reinforcement Learning (372.2.5910)" course assignments & solutions
+
+## [DeepLearningCourse](https://github.com/ShaharShc/DeepLearningCourse) (2022)
+Ben Gurion University "Deep Learning (372.2.6101)" course assignments & solutions
+
+## [BigDataCourse](https://github.com/ShaharShc/BigDataCourse) (2022)
+Ben Gurion University "The Art of Analyzing Big Data - The Data Scientist’s Toolbox (372.2.5401)" course assignments & solutions
+
+## [MachineLearningCourse](https://github.com/ShaharShc/MachineLearningCourse) (2022)
+Ben Gurion University "Machine Learning (372.2.5214)" course assignments & solutions
+
+-->
+
+## 👩‍💻 Projects
+
+<!--
+
+## FootballLeagueManagement ([BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)) ([FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd)) (2021)
+#### Full-stack web application
+In this project, we developed a full-stack web application tailored for watching and managing Super League games. We used three tier pattern with REST API architecture and Azure SQL DB.
+
+- <b> Backend: </b>
+Creating an API to interact with the sportmonks platform, where all communication with the platform occurs server-side via the API. This involves implementing all server-side API requests, including routing, middleware, and proper organization into classes. The backend handles all server-side logic for validation and communication.
+- <b> Frontend: </b>
+Developing the client-side using the Vue.js platform, focusing on enhancing user experience in terms of visibility and ensuring correct retrieval of information during user login. Additionally, structuring and styling the application's appearance using packages from the Bootstrap site to improve overall usability.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
+) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white
+) ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+
+## [PacmanWebGame](https://github.com/ShaharShc/PacmanWebGame) (2021)
+#### An online packman game
+This project integrates HTML for structure and design, JavaScript for functionality, and jQuery for user management.
+
+[Start Playing](https://web-development-environments-2021.github.io/Assignment2_205890320_313326985)🎮
+
+![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
+) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery)
+
+
+## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
+#### Tweets search engine project: Information retrieval from twitter corpus.
+
+In this project, we bulid a Search engine, implementing Parser, Indexer, Searcher, and Ranker components, and maintain a large set of data.
+Additionally, We implemented five differenet retrieval methods using: Word2Vec, Global Method, Spelling Correction, Thesaurus and Word Net - and evaluated their effectiveness using MAP, Precision, and Recall metrics. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+## [MazeGame](https://github.com/ShaharShc/MazeGame) (2020)
+#### Server-Client interactive responsive maze game application, communicating in TCP Protocol, using MVC Pattern
+
+The game was developed in multiple phases, incorporating various design patterns such as Strategy and Observer.
+- In the initial phase, we utilized Prim's algorithm to construct the maze and implemented three distinct search methods—BEST-FIRST SEARCH, BFS, DFS—to provide users with a solution.
+- During the second phase, we implemented bit compression to optimize storage and employed a client-server architecture with thread management for efficient time handling.
+- In the final step, emphasis was placed on enhancing the frontend, refining game design, and improving user experience through intuitive GUI enhancements.
+
+![Java](https://img.shields.io/badge/Java-3670A0.svg?style=flat&logo=java&logoColor=white)
+
+-->
+
+## 📜 Papers
 
 * [FRAUDability: Estimating Users' Susceptibility to Financial Fraud Using Adversarial Machine Learning](https://arxiv.org/abs/2312.01200)
     
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 #### Security
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=flat&logo=kalilinux&logoColor=black)
