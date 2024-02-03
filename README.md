@@ -108,15 +108,8 @@ The game was developed in multiple phases, incorporating various design patterns
     
 
 ## 💻 Tech Stack
-#### Security
-![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=flat&logo=kalilinux&logoColor=black)
-#### Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
-#### Data Science
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+**Security** ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=flat&logo=kalilinux&logoColor=black)
+
+**Programming** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+**Data Science** ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
