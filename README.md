@@ -8,7 +8,7 @@ I'm a **Security Researcher** and very passionate about cloud and application se
 
 - 🔨 **Current Work**: I’m a Senior Security Researcher at Akamai Technologies.
 
--  📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chendoy)
+-  📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chendoy) [![Gmail](https://img.shields.io/badge/Gmail-d44638?style=flat&logo=gmail&logoColor=white)](mailto:chendoy@gmail.com)
 
 ---
 
