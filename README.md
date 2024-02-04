@@ -67,30 +67,21 @@ I’m a Senior Security Researcher at Akamai Technologies.
 
 ## 👩‍💻 Projects
 
-## FootballLeagueManagement ([BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)) ([FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd)) (2021)
-#### Full-stack web application
-In this project, we developed a full-stack web application tailored for watching and managing Super League games. We used three tier pattern with REST API architecture and Azure SQL DB.
+### [Assembly Calculator](https://github.com/chendoy/assembly-calculator)
+In this project, I developed a full-fledged calculator in pure x86 Assembly language. The calculator support addition (+), subtraction (-), multiplicaiton (*), division (/) and exponents (^) with an unlimited numbers of digits.
 
-- <b> Backend: </b>
-Creating an API to interact with the sportmonks platform, where all communication with the platform occurs server-side via the API. This involves implementing all server-side API requests, including routing, middleware, and proper organization into classes. The backend handles all server-side logic for validation and communication.
-- <b> Frontend: </b>
-Developing the client-side using the Vue.js platform, focusing on enhancing user experience in terms of visibility and ensuring correct retrieval of information during user login. Additionally, structuring and styling the application's appearance using packages from the Bootstrap site to improve overall usability.
+![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=flat)
+![MAKEFILE](https://img.shields.io/badge/_-Makefile-427819.svg?style=flat&logo=Cmake)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
-) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white
-) ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+### [Pacman in Java](https://github.com/chendoy/pacman-java)
+Pacman game written in Java using Spring framework.
+
+
+![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery)
 
 <!--
-
-## [PacmanWebGame](https://github.com/ShaharShc/PacmanWebGame) (2021)
-#### An online packman game
-This project integrates HTML for structure and design, JavaScript for functionality, and jQuery for user management.
-
-[Start Playing](https://web-development-environments-2021.github.io/Assignment2_205890320_313326985)🎮
-
-![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
-) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery)
-
 
 ## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
 #### Tweets search engine project: Information retrieval from twitter corpus.
@@ -118,7 +109,7 @@ The game was developed in multiple phases, incorporating various design patterns
     
 
 ## 💻 Tech Stack
-**Security** ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=flat&logo=kalilinux&logoColor=black)
+**Security** ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
 
 **Programming** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 
