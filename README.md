@@ -17,10 +17,15 @@ $
 $ whoami --current-position
 I’m a Senior Security Researcher at Akamai Technologies.
 ```
-
+<!--
 ![chendoy](https://www.hackthebox.eu/badge/image/1778593)
+-->
 
-📫 **Find me at**: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chendoy) [![Gmail](https://img.shields.io/badge/Gmail-d44638?style=flat&logo=gmail&logoColor=white)](mailto:chendoy@gmail.com) [![HackTheBox](https://img.shields.io/badge/HackTheBox-d44638?style=flat&logo=hackthebox&logoColor=a0ef03&color=121926)](https://app.hackthebox.com/profile/1778593)
+📫 **Find me at**: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chendoy) 
+[![GitHub](https://img.shields.io/badge/GitHub-131112?style=flat&logo=github&logoColor=white)](https://github.com/chendoy)
+[![Gmail](https://img.shields.io/badge/Gmail-d44638?style=flat&logo=gmail&logoColor=white)](mailto:chendoy@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-d44638?style=flat&logo=hackthebox&logoColor=a0ef03&color=121926)](https://app.hackthebox.com/profile/1778593)
 
 ---
 
@@ -46,25 +51,21 @@ I’m a Senior Security Researcher at Akamai Technologies.
 
 ### Applied Cryptography (202.2.5821)
 - Prof. Amos Beimel, Ben Gurion University of the Negev, 2021
+- Symetric and Asymmetric encryption, Diffie-Helman, Digital Signatures, Zero-knowledge proofs
 - Grade 91
-- 
 
 ### Operating Systems (202.1.3031)
 - Prof. Daniel Handler, Ben Gurion University of the Negev, 2020
-- Grade 90
 - Scheduling, memory management, paging, signals, etc.
+- Grade 90
 - [Assignment 1](https://github.com/chendoy/xv6-scheduling), [Assignment 2](https://github.com/chendoy/xv6-signals), [Assignment 3](https://github.com/chendoy/xv6-paging), [Assignment 4](https://github.com/chendoy/xv6-soft-links)
 
-<!--
-
-## [MachineLearningCourse](https://github.com/ShaharShc/MachineLearningCourse) (2022)
-Ben Gurion University "Machine Learning (372.2.5214)" course assignments & solutions
-
--->
+### Advanced Topics in Malware (372.2.5301)
+- Dr. Mordechai Guri, Ben Gurion University of the Negev, 2022
+- Static analysis, Dynamic analysis, Code injeciton, Reverse engineering
+- Grade 88
 
 ## 👩‍💻 Projects
-
-<!--
 
 ## FootballLeagueManagement ([BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)) ([FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd)) (2021)
 #### Full-stack web application
@@ -79,6 +80,7 @@ Developing the client-side using the Vue.js platform, focusing on enhancing user
 ) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white
 ) ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+<!--
 
 ## [PacmanWebGame](https://github.com/ShaharShc/PacmanWebGame) (2021)
 #### An online packman game
