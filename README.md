@@ -34,12 +34,27 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - [BSCP (Burp Suite Certified Practitioner)](https://portswigger.net/web-security/e/c/d8e801847633de54) @PortSwigger
   
 ## ✏️ Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
 - [Akamai’s Observations of Confluence Zero Day (CVE-2022-26134)](https://www.akamai.com/blog/security-research/atlassian-confluence-vulnerability-observations)
 - [Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell)
 - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802)
-<!-- BLOG-POST-LIST:END -->
+
+## 💻 Tech Stack
+**Security**
+![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+
+**Programming**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+**Data science**
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
 
 ## 📖 Selected BGU Courses
 
@@ -65,7 +80,7 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - Static analysis, Dynamic analysis, Code injeciton, Reverse engineering
 - Grade 88
 
-## 👩‍💻 Projects
+## 🧑‍💻 Projects
 
 ### [Assembly Calculator](https://github.com/chendoy/assembly-calculator)
 In this project, I developed a full-fledged calculator in pure x86 Assembly language. The calculator support addition (+), subtraction (-), multiplicaiton (*), division (/) and exponents (^) with an unlimited numbers of digits.
@@ -73,44 +88,19 @@ In this project, I developed a full-fledged calculator in pure x86 Assembly lang
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=flat)
 ![MAKEFILE](https://img.shields.io/badge/_-Makefile-427819.svg?style=flat&logo=Cmake)
 
-### [Pacman in Java](https://github.com/chendoy/pacman-java)
-Pacman game written in Java using Spring framework.
+### [Java Pacman](https://github.com/chendoy/pacman-java)
+Pacman game written in Java using Spring framework. 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
-![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery)
+### [Selenium BGU Checker](https://github.com/chendoy/selenium-course-check)
+A Selenium automation written in Pyhton that checks BGU's course book for my teaching hours and send them to me on Telegram. Runs remotely on Linode.
 
-<!--
-
-## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
-#### Tweets search engine project: Information retrieval from twitter corpus.
-
-In this project, we bulid a Search engine, implementing Parser, Indexer, Searcher, and Ranker components, and maintain a large set of data.
-Additionally, We implemented five differenet retrieval methods using: Word2Vec, Global Method, Spelling Correction, Thesaurus and Word Net - and evaluated their effectiveness using MAP, Precision, and Recall metrics. 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-
-## [MazeGame](https://github.com/ShaharShc/MazeGame) (2020)
-#### Server-Client interactive responsive maze game application, communicating in TCP Protocol, using MVC Pattern
-
-The game was developed in multiple phases, incorporating various design patterns such as Strategy and Observer.
-- In the initial phase, we utilized Prim's algorithm to construct the maze and implemented three distinct search methods—BEST-FIRST SEARCH, BFS, DFS—to provide users with a solution.
-- During the second phase, we implemented bit compression to optimize storage and employed a client-server architecture with thread management for efficient time handling.
-- In the final step, emphasis was placed on enhancing the frontend, refining game design, and improving user experience through intuitive GUI enhancements.
-
-![Java](https://img.shields.io/badge/Java-3670A0.svg?style=flat&logo=java&logoColor=white)
-
--->
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=akamai&logoColor=white)
 
 ## 📜 Papers
 
 * [FRAUDability: Estimating Users' Susceptibility to Financial Fraud Using Adversarial Machine Learning](https://arxiv.org/abs/2312.01200)
-    
-
-## 💻 Tech Stack
-**Security** ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
-
-**Programming** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
-
-**Data Science** ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
