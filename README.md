@@ -38,6 +38,9 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - [Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell)
 - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802)
 
+## 📜 Papers
+- [FRAUDability: Estimating Users' Susceptibility to Financial Fraud Using Adversarial Machine Learning](https://arxiv.org/abs/2312.01200)
+
 ## 💻 Tech Stack
 **Security**
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-white?style=flat&logo=portswigger&logoColor=orange)
@@ -100,7 +103,3 @@ A Selenium automation written in Pyhton that checks BGU's course book for my tea
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=akamai&logoColor=white)
-
-## 📜 Papers
-
-* [FRAUDability: Estimating Users' Susceptibility to Financial Fraud Using Adversarial Machine Learning](https://arxiv.org/abs/2312.01200)
