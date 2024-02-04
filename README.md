@@ -36,18 +36,26 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802)
 <!-- BLOG-POST-LIST:END -->
 
-## 📖 BGU Courses
+## 📖 Selected BGU Courses
+
+### Attacks on Implementations of Secure Systems (372.2.5421)
+- Dr. Yossi Oren, Ben Gurion University of the Negev, 2021
+- This course gave throughout background on [side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) and how to use them
+- Grade 96
+- [Assignment 1](https://github.com/chendoy/aes-power-analysis-aoi), [Assignemnt 2](https://github.com/chendoy/temporal-side-channel-aoi)
+
+### Applied Cryptography (202.2.5821)
+- Prof. Amos Beimel, Ben Gurion University of the Negev, 2021
+- Grade 91
+- 
+
+### Operating Systems (202.1.3031)
+- Prof. Daniel Handler, Ben Gurion University of the Negev, 2020
+- Grade 90
+- Scheduling, memory management, paging, signals, etc.
+- [Assignment 1](https://github.com/chendoy/xv6-scheduling), [Assignment 2](https://github.com/chendoy/xv6-signals), [Assignment 3](https://github.com/chendoy/xv6-paging), [Assignment 4](https://github.com/chendoy/xv6-soft-links)
 
 <!--
-
-## [DeepReinforcementLearningCourse](https://github.com/ShaharShc/DeepReinforcementLearningCourse) (2023)
-Ben Gurion University "Deep Reinforcement Learning (372.2.5910)" course assignments & solutions
-
-## [DeepLearningCourse](https://github.com/ShaharShc/DeepLearningCourse) (2022)
-Ben Gurion University "Deep Learning (372.2.6101)" course assignments & solutions
-
-## [BigDataCourse](https://github.com/ShaharShc/BigDataCourse) (2022)
-Ben Gurion University "The Art of Analyzing Big Data - The Data Scientist’s Toolbox (372.2.5401)" course assignments & solutions
 
 ## [MachineLearningCourse](https://github.com/ShaharShc/MachineLearningCourse) (2022)
 Ben Gurion University "Machine Learning (372.2.5214)" course assignments & solutions
