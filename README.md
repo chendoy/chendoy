@@ -35,7 +35,7 @@ I’m a Senior Security Researcher at Akamai Technologies.
   
 ## ✏️ Latest blog posts
 - [AkaNAT: How Akamai Uses Machine Learning to Detect Shared IPs](https://www.akamai.com/blog/security/how-akamai-uses-machine-learning-to-detect-shared-ips) (Akamai, 2024)
-- - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802) (Medium, 2024)
+- [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802) (Medium, 2024)
 - [Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell) (Akamai, 2023)
 - [Akamai’s Observations of Confluence Zero Day (CVE-2022-26134)](https://www.akamai.com/blog/security-research/atlassian-confluence-vulnerability-observations) (Akamai, 2022)
 
