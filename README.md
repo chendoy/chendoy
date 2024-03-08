@@ -34,9 +34,10 @@ I’m a Senior Security Researcher at Akamai Technologies.
 - [BSCP (Burp Suite Certified Practitioner)](https://portswigger.net/web-security/e/c/d8e801847633de54) @PortSwigger
   
 ## ✏️ Latest blog posts
-- [Akamai’s Observations of Confluence Zero Day (CVE-2022-26134)](https://www.akamai.com/blog/security-research/atlassian-confluence-vulnerability-observations)
-- [Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell)
-- [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802)
+- [AkaNAT: How Akamai Uses Machine Learning to Detect Shared IPs](https://www.akamai.com/blog/security/how-akamai-uses-machine-learning-to-detect-shared-ips) (Akamai, 2024)
+- - [Burp Suite Certified Practitioner (BSCP) Exam Review](https://medium.com/@chendoy/burp-suite-certified-practitioner-bscp-exam-review-0a6846d76802) (Medium, 2024)
+- [Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell) (Akamai, 2023)
+- [Akamai’s Observations of Confluence Zero Day (CVE-2022-26134)](https://www.akamai.com/blog/security-research/atlassian-confluence-vulnerability-observations) (Akamai, 2022)
 
 ## 📜 Papers
 - [FRAUDability: Estimating Users' Susceptibility to Financial Fraud Using Adversarial Machine Learning](https://arxiv.org/abs/2312.01200)
