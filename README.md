@@ -15,7 +15,7 @@ and a bachelor's degree in Software Engineering, both from Ben-Gurion University
 $
 $
 $ whoami --current-position
-I’m a Senior Security Researcher at Akamai Technologies.
+I’m a Security Researcher at Palo Alto Networks.
 ```
 <!--
 ![chendoy](https://www.hackthebox.eu/badge/image/1778593)
